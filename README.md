@@ -14,9 +14,9 @@ Aplicacion basica de Manejo de usuarios y claves encriptadas, mediate 3 tipos de
 #Casos de uso:
 
 :~/entrega1$ ruby cmd.rb 
-1. texto_plano
-2. caesar_cipher
-3. bcrypt
+* 1. texto_plano
+* 2. caesar_cipher
+* 3. bcrypt
 Seleccione su encriptador
 3
 1. Login
